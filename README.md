@@ -1,4 +1,4 @@
-# <nlw>heat 2021
+# nlw heat 2021
 
 ## Mission: Origin
 
